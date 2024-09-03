@@ -14,7 +14,7 @@ Affiliation: [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), Unive
 
   - **Deep Learning:** A CNN-LSTM neural network that inputs DRAI and outputs gesture labels. 
 
-- Both the signal processing and deep learning code can be used to support other similar applications using wireless signals.
+- The code can be used to support other similar applications using wireless signals.
 
 <div align=center>
     <img src="https://github.com/leeyadong/Radar-Gesture/blob/e26ca877818ab6af6e8c3ed8f643bcc988fb9d5b/figures/signal_processing.jpg" alt="Signal processing" width="500" />
