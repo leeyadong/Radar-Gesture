@@ -19,8 +19,9 @@ Affiliation: [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), Unive
 <div align=center>
     <img src="https://github.com/leeyadong/Radar-Gesture/blob/e26ca877818ab6af6e8c3ed8f643bcc988fb9d5b/figures/signal_processing.jpg" alt="Signal processing" width="500" />
 </div>
-
-
+<div align=center>
+    <img src=https://github.com/leeyadong/Radar-Gesture/blob/e7d5a89eecf1d3567d40f1e1b7a145a49d02c746/figures/neural_network.jpg alt="Neural Network" width="500" />
+</div>
 
 ## How to Access the Code
 
