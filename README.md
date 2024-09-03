@@ -5,6 +5,7 @@ Authors: [Yadong Li](https://yadongli.com), [Dongheng Zhang](http://staff.ustc.e
 
 Affiliation: [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), University of Science and Technology of China. [Paper Link](https://ieeexplore.ieee.org/document/9894724)
 
+![System Overview](figures/overview_tmc.jpg)
 
 ## Introduction
 - This code repository mainly includes two parts:
