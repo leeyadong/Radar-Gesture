@@ -1,9 +1,9 @@
 # mmWave Radar-based Gesture Recognition
 ## Code repository for the paper: Towards Domain-independent and Real-time Gesture Recognition using mmWave Signal, IEEE TMC, 2022.
 
-Authors: [Yadong Li](yadongli.com), [Dongheng Zhang](http://staff.ustc.edu.cn/~dongheng/), Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, [Qibin Sun](https://ustc-ip-lab.github.io/authors/qibinsun/), and [Yan Chen](https://ustc-ip-lab.github.io/authors/yanchen/)
+Authors: [Yadong Li](https://yadongli.com), [Dongheng Zhang](http://staff.ustc.edu.cn/~dongheng/), Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, [Qibin Sun](https://ustc-ip-lab.github.io/authors/qibinsun/), and [Yan Chen](https://ustc-ip-lab.github.io/authors/yanchen/)
 
-Affiliation: (Intelligent Perception Lab](https://ustc-ip-lab.github.io/), University of Science and Technology of China.
+Affiliation: [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), University of Science and Technology of China.
 
 
 ## Introduction
