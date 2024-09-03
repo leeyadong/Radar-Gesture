@@ -8,9 +8,9 @@ Affiliation: [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), Unive
 ![System Overview](figures/overview_tmc.jpg)
 
 ## Introduction
-- This code repository mainly includes two parts:
+- This code repository mainly includes two parts described in the paper:
 
-  - **Signal Processing:** Pre-processing the raw FMCW signal to get the dynamic range angle image (DRAI) as described in the paper.  
+  - **Signal Processing:** Pre-processing the raw FMCW signal to get the dynamic range angle image (DRAI).  
 
   - **Deep Learning:** A CNN-LSTM neural network that inputs DRAI and outputs gesture labels. 
 
