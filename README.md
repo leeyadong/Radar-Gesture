@@ -17,7 +17,7 @@ Affiliation: [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), Unive
 - Both the signal processing and deep learning code can be used to support other similar applications using wireless signals.
 
 <div style="text-align: center;">
-    <img src="https://example.com/image.jpg" alt="示例图片" width="300" />
+    <img src="https://github.com/leeyadong/Radar-Gesture/blob/e26ca877818ab6af6e8c3ed8f643bcc988fb9d5b/figures/signal_processing.jpg" alt="Signal processing" width="600" />
 </div>
 
 
