@@ -1,18 +1,24 @@
 # mmWave Radar-based Gesture Recognition
 ## Code repository for the paper: Towards Domain-independent and Real-time Gesture Recognition using mmWave Signal, IEEE TMC, 2022.
 
+Authors: [Yadong Li](yadongli.com), [Dongheng Zhang](http://staff.ustc.edu.cn/~dongheng/), Jinbo Chen, Jinwei Wan, Dong Zhang, Yang Hu, [Qibin Sun](https://ustc-ip-lab.github.io/authors/qibinsun/), and [Yan Chen](https://ustc-ip-lab.github.io/authors/yanchen/)
+
+Affiliation: (Intelligent Perception Lab](https://ustc-ip-lab.github.io/), University of Science and Technology of China.
 
 
 ## Introduction
-This code repository mainly includes two parts:
+- This code repository mainly includes two parts:
 
-**Signal Processing:** Pre-processing the raw FMCW signal to get the dynamic range angle image (DRAI) as described in the paper.  
+  - **Signal Processing:** Pre-processing the raw FMCW signal to get the dynamic range angle image (DRAI) as described in the paper.  
 
-**Deep Learning:** A CNN-LSTM neural network that inputs DRAI and outputs gesture labels. 
+  - **Deep Learning:** A CNN-LSTM neural network that inputs DRAI and outputs gesture labels. 
+
+- Both the signal processing and deep learning code can be used to support other similar applications using wireless signals.
 
 
 ## How to Access the Code
 
+The [USTC IP Lab](https://ustc-ip-lab.github.io/) has particular protocols for releasing the code and dataset. To access the code, please sign the [agreement](datasetAgreement.pdf), scan and send it to yadongli@mail.ustc.edu.cn or yadongli@uw.edu. A notification email that includes the code will be sent within three days.
 
 ## Installation and Setup
 
