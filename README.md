@@ -3,8 +3,15 @@
 
 
 
-
 ## Introduction
+This code repository mainly includes two parts:
+
+**Signal Processing:** Pre-processing the raw FMCW signal to get the dynamic range angle image (DRAI) as described in the paper.  
+
+**Deep Learning:** A CNN-LSTM neural network that inputs DRAI and outputs gesture labels. 
+
+
+## How to Access the Code
 
 
 ## Installation and Setup
