@@ -27,9 +27,35 @@ Affiliation: [Intelligent Perception Lab](https://ustc-ip-lab.github.io/), Unive
 
 The [USTC IP Lab](https://ustc-ip-lab.github.io/) has particular protocols for releasing the code and dataset. To access the code, please sign the [agreement](datasetAgreement.pdf), scan and send it to yadongli@mail.ustc.edu.cn or yadongli@uw.edu. A notification email that includes the code will be sent within three days.
 
-## Installation and Setup
+## Installation and Demo
 
-## Run Demo
+### Signal processing
+Setup:
+```
+conda create -n digesture python==3.8
+conda activate digesture
+pip install opencv-python matplotlib numpy pillow
+```
+Run the demo:
+```
+python signal_process_DRAI.py
+```
+
+## Deep Learning
+Setup:
+```
+conda activate digesture
+pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+pip install scikit-learn pandas tqdm
+```
+Train the network:
+```
+python train --data_path your_data_path_to_the_DRAI_dataset
+```
+Test the network:
+```
+python test --data_path your_data_path_to_the_DRAI_dataset
+```
 
 ## Citing
 If you find this code useful for your research, please consider citing the following papers:
