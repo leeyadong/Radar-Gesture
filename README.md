@@ -50,11 +50,11 @@ pip install scikit-learn pandas tqdm
 ```
 Train the network:
 ```
-python train --data_path your_data_path_to_the_DRAI_dataset
+python train.py --data_path your_data_path_to_the_DRAI_dataset
 ```
 Test the network:
 ```
-python test --data_path your_data_path_to_the_DRAI_dataset
+python test.py --data_path your_data_path_to_the_DRAI_dataset
 ```
 
 ## Citing
